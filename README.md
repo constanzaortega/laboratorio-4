@@ -33,3 +33,40 @@ La diferencia importante radica  en la cantidad de información que  entrega el 
 
 Se visualizan diferencias significativas en relación a las distancias evolutivas y a sus grupos monofileticos, cabe destacar que los análisis con parámetros como probcons y con clustalw son signifcativamente diferentes ya que se pueden visualizar grupos monofileticos que no están presentes en ambos análisis. Se puede apreciar que en clustalw especies están muy relacionadas entre sí y en el probcons se ven distantes, estableciendo una diferencia fundamental en los análisis.
 
+
+
+![1](https://raw.githubusercontent.com/constanzaortega/laboratorio-4/master/21641453_10214335214602116_580221554_n.jpg)
+
+
+IMAGEN 1: Filogenia formada a partir de los parámetros ProbCons, GBlocks, MrBayes, y TreeDyn
+
+
+![2](https://raw.githubusercontent.com/constanzaortega/laboratorio-4/master/21641445_10214335215922149_1386964157_n.jpg)
+
+
+IMAGEN 2: Filogenia formada a partir de los parámetros ProbCons, [Sin alignment curation] , MrBayes, y TreeDyn.
+
+
+![3](https://raw.githubusercontent.com/constanzaortega/laboratorio-4/master/21623989_10214335218042202_283444414_n.jpg)
+
+
+IMAGEN 3: Filogenia formada a partir de los parámetros ClustalW, "Remove positions with gaps", TNT, y TreeDyn
+
+
+![4](https://raw.githubusercontent.com/constanzaortega/laboratorio-4/master/21624258_10214335222282308_1597776692_n.jpg)
+
+
+IMAGEN 4: Filogenia formada a partir de los parámetros ClustalW, [alignemn sin curation] , TNT, y TreeDyn
+
+
+## Bibliografia
+
+
+1.- http://www.phylogeny.fr/alacarte.cgi?workflow_id=510f9528b2ea33bd7eb84d9613d85901&tab_index=last
+
+
+2.-http://www.phylogeny.fr/documentation.cgi
+
+
+
+
